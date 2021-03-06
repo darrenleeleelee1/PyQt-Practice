@@ -25,3 +25,11 @@ import PyQt5
 [PyQt APIs](https://doc.qt.io/qtforpython/api.html)
 
 [Python Lambda](https://www.w3schools.com/python/python_lambda.asp)
+
+## Qt Designer to Python Code
+[link](https://realpython.com/qt-designer-python/)
+
+* Shell
+```
+pyuic5 -o ____.py ____.ui
+```
