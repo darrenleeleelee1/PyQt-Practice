@@ -26,6 +26,8 @@ import PyQt5
 
 [Python Lambda](https://www.w3schools.com/python/python_lambda.asp)
 
+[Tutorial](https://www.tutorialspoint.com/pyqt/index.htm)
+
 ## Qt Designer to Python Code
 [link](https://realpython.com/qt-designer-python/)
 
