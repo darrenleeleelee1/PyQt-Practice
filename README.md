@@ -33,7 +33,7 @@ import PyQt5
 
 * Shell
 ```
-pyuic5 -o ____.py ____.ui
+pyuic5 -x ____.ui -o ____.py 
 ```
 
 ## qrc file to py file
